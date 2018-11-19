@@ -15,6 +15,8 @@ Requires node >= 4.0
 [![Build Status](https://api.travis-ci.org/matthesrieke/prerender-filesystem-cache.svg)](https://travis-ci.org/matthesrieke/prerender-filesystem-cache)
 [![Coverage Status](https://coveralls.io/repos/github/matthesrieke/prerender-filesystem-cache/badge.svg?branch=master)](https://coveralls.io/github/matthesrieke/prerender-filesystem-cache?branch=master)
 
+The version `1.0.0` of this plugin and all its hotfixes target the prerender phantomjs branch (version `4.4.x`).
+
 ## How it works
 
 This plugin will store all prerendered pages into a filesystem hierarchy.
